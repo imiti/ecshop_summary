@@ -8,3 +8,4 @@
 - [ecshop中ajax的调用原理](http://www.68ecshop.com/article-870.html)
 - [欢迎来到ECSHOP知识堂](http://help.ecmoban.com/)
 - [Smarty变量调节器的使用](http://blog.csdn.net/chuangrain/article/details/7499680)
+- [ECSHOP访问首页一直跳转到安装目录解决方案](https://github.com/Richardphp/ecshop_summary/blob/master/ecshop_skip_to_install.md)
