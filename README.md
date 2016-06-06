@@ -22,3 +22,5 @@
 - 我还发现如果控制器中的sql语句写错，也是会影响整个程序，什么都不显示 
 
 - 写前台控制器 mobile/include/apps/defalut/controller/ 路径，里边数据表前缀：$this->model->pre 才能直接访问到，总共有3中访问方法.还有数据库取数据：$this->model->getRow()
+
+- 访问私有变量用关键字 self::privatefunction() 的方法，用了$this->调了半天
